@@ -1,0 +1,1 @@
+java -cp bin;lib/* org.testng.TestNG Swow.xml
